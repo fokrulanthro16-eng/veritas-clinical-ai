@@ -28,23 +28,19 @@
 
 ---
 
-## 📸 Visual Product Showcase
+## 🖥️ Live Command Center & Visual Showcase
 
 <div align="center">
-
-### 🖥️ 1. Veritas Tactical Command Center Dashboard
-*Real-time AssemblyAI v3 ambient diarization, Google Gemini 2.5 Flash SOAP synthesis, and autonomous CMS E/M 99215 denial radar.*
-
-![Veritas Tactical Command Center](assets/hero_dashboard.svg)
+  <img src="assets/hero_dashboard.png" alt="Veritas Clinical AI Command Center" width="95%" style="border-radius: 12px; border: 1px solid #00F2C2; box-shadow: 0 0 25px rgba(0, 242, 194, 0.15);" />
+  <p><em>Veritas Clinical AI V5 Enterprise Command Center — Ambient Diarization, Real-time CDS, Multimodal ECG & RCM Denial Radar</em></p>
+</div>
 
 <br/>
 
-| 📈 Multimodal 12-Lead ECG Vision | 🛡️ Medico-Legal CDS & Airlock | 🏛️ ANSI 837P Clearinghouse EDI |
-|:---:|:---:|:---:|
-| ![Multimodal ECG Vision](assets/ecg_vision.svg) | ![Medico-Legal CDS Airlock](assets/copilot_cds.svg) | ![ANSI 837P EDI Clearinghouse](assets/edi_clearinghouse.svg) |
-| *ST-Segment deviation extraction & troponin correlation.* | *Point-of-care Warfarin & Metformin safety shields.* | *One-click institutional 5010X222A1 claim compiler.* |
-
-</div>
+| 📈 Multimodal 12-Lead ECG Vision | 🏛️ ANSI ASC X12N 837P Clearinghouse Gateway |
+| :---: | :---: |
+| <img src="assets/multimodal_ecg.png" width="100%" alt="Multimodal ECG"/> | <img src="assets/edi_gateway.png" width="100%" alt="EDI 837P Gateway"/> |
+| *Real-time ST-deviation extraction & automated biomarker vectorization* | *Deterministic 5010X222A1 institutional claim compilation* |
 
 ---
 
