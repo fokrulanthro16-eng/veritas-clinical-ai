@@ -1,3 +1,5 @@
+const path = require('path');
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: false,
@@ -7,6 +9,13 @@ const nextConfig = {
   },
   typescript: {
     ignoreBuildErrors: true,
+  },
+  // Restrict file tracing strictly to frontend directory
+  experimental: {
+    outputFileTracingRoot: path.join(__dirname),
+  },
+  images: {
+    unoptimized: true,
   },
 };
 
