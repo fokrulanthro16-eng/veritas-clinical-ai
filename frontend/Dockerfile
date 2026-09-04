@@ -17,8 +17,8 @@ RUN npm run build
 FROM node:20-alpine AS runner
 WORKDIR /app
 
-EIV NODE_ENV=production
-EIV PORT=3000
+ENV NODE_ENV=production
+ENV PORT=3000
 ENV NEXT_TELEMETRY_DISABLED=1
 
 # Copy built application
