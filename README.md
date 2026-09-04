@@ -1,31 +1,48 @@
-# 🏥 Veritas Clinical AI (V5 Enterprise Core)
-
 <div align="center">
 
-![Veritas Clinical AI Banner](https://img.shields.io/badge/Veritas_Clinical_AI-Enterprise_v5.0.0-00F2C2?style=for-the-badge&logo=mediamarkt&logoColor=050B0A)
-[![CI/CD Pipeline](https://img.shields.io/badge/CI_Build-Passing-22C55E?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/fokrulanthro16-eng/veritas-clinical-ai/actions)
-[![Docker Ready](https://img.shields.io/badge/Docker-Orchestrated-2496ED?style=for-the-badge&logo=docker&logoColor=white)](docker-compose.yml)
-![Gemini 2.5 Flash](https://img.shields.io/badge/Google_Gemini-2.5_Flash_Clinical_Reasoning-8E75FF?style=for-the-badge&logo=google&logoColor=white)
-![AssemblyAI Streaming v3](https://img.shields.io/badge/AssemblyAI-Streaming_v3_Universal--3.5_Pro-0066FF?style=for-the-badge&logo=audioboom&logoColor=white)
+# 🏥 Veritas Clinical AI (V5 Enterprise Core)
+### Autonomous Multimodal Clinical Intelligence & Institutional Revenue Cycle Management Platform
 
-[![Python 3.11+](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.14-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Next.js 14](https://img.shields.io/badge/Next.js-14.2_App_Router-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
-[![FHIR R4 Standard](https://img.shields.io/badge/HL7_FHIR-R4_Compliant_Bundle-FF6F00?style=flat-square&logo=fire&logoColor=white)](https://hl7.org/fhir/R4/)
-[![ANSI ASC X12N 837P](https://img.shields.io/badge/Clearinghouse_EDI-ANSI_ASC_X12N_837P-0A2621?style=flat-square&logo=codeforces&logoColor=00F2C2)](https://x12.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-00F2C2.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=black)](LICENSE)
+[![Gemini 2.5 Flash](https://img.shields.io/badge/Reasoning_Core-Google_Gemini_2.5_Flash-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
+[![AssemblyAI v3](https://img.shields.io/badge/Streaming_Audio-AssemblyAI_Universal--3.5_Pro-3B82F6.svg?style=for-the-badge&logo=audioboom&logoColor=white)](https://www.assemblyai.com/)
+[![FastAPI](https://img.shields.io/badge/Backend-FastAPI_0.110+-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Next.js 14](https://img.shields.io/badge/Frontend-Next.js_14_Obsidian--Mint-black.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![EDI 837P](https://img.shields.io/badge/Clearinghouse-ANSI_X12_837P_5010-10B981.svg?style=for-the-badge&logo=codeforces&logoColor=white)](#)
+[![Docker Ready](https://img.shields.io/badge/Containerized-Docker_Compose-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](docker-compose.yml)
+[![CI Build](https://img.shields.io/badge/CI_Build-Passing-22C55E.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/fokrulanthro16-eng/veritas-clinical-ai/actions)
 
 <br/>
 
-**Autonomous Multimodal Clinical Intelligence & Institutional Revenue Cycle Management Platform**  
 *Turning Ambient Patient-Physician Encounters into Defensible Claims, Real-Time Safety Shields, and Instant EHR Synthesis.*
 
 ---
 
-### 🎥 Demonstration & Interactive Showcase
+### 🎥 Demonstration & Quick Links
 [![Watch Video Walkthrough](https://img.shields.io/badge/▶_Watch_Interactive_Demo-Loom_Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/fokrulanthro16-eng/veritas-clinical-ai)
 [![Live UI Demo](https://img.shields.io/badge/🖥️_Open_Local_Dashboard-http://localhost:3000-00F2C2?style=for-the-badge&logo=googlechrome&logoColor=050B0A)](http://localhost:3000)
 
-[Judging Rubric](#-hackathon-judging-rubric-alignment-why-veritas-wins) • [Executive Summary](#-executive-summary) • [Architecture](#-system-architecture) • [Clinical Differentiators](#-key-features--clinical-differentiators) • [Benchmarks](#-performance--clinical-impact-benchmarks) • [Quickstart Guide](#-local-setup--quickstart-for-evaluators) • [Compliance](#-security-interoperability--compliance)
+[Visual Showcase](#-visual-product-showcase) • [Judging Rubric](#-hackathon-judging-rubric-alignment-why-veritas-wins) • [Architecture](#-system-architecture) • [Clinical Differentiators](#-key-features--clinical-differentiators) • [Benchmarks](#-performance--clinical-impact-benchmarks) • [Quickstart Guide](#-local-setup--quickstart-for-evaluators) • [Compliance](#-security-interoperability--compliance)
+
+</div>
+
+---
+
+## 📸 Visual Product Showcase
+
+<div align="center">
+
+### 🖥️ 1. Veritas Tactical Command Center Dashboard
+*Real-time AssemblyAI v3 ambient diarization, Google Gemini 2.5 Flash SOAP synthesis, and autonomous CMS E/M 99215 denial radar.*
+
+![Veritas Tactical Command Center](assets/hero_dashboard.svg)
+
+<br/>
+
+| 📈 Multimodal 12-Lead ECG Vision | 🛡️ Medico-Legal CDS & Airlock | 🏛️ ANSI 837P Clearinghouse EDI |
+|:---:|:---:|:---:|
+| ![Multimodal ECG Vision](assets/ecg_vision.svg) | ![Medico-Legal CDS Airlock](assets/copilot_cds.svg) | ![ANSI 837P EDI Clearinghouse](assets/edi_clearinghouse.svg) |
+| *ST-Segment deviation extraction & troponin correlation.* | *Point-of-care Warfarin & Metformin safety shields.* | *One-click institutional 5010X222A1 claim compiler.* |
 
 </div>
 
@@ -63,29 +80,40 @@
 
 ```mermaid
 flowchart TB
-    subgraph InputLayer ["1. Ambient & Multimodal Ingestion Layer"]
-        MIC["🎙️ 16kHz PCM Live Microphone"] --> AAI["AssemblyAI v3 Universal-3.5 Stream"]
-        ECG["📈 12-Lead Diagnostic ECG Strip"] --> GEM_VIS["Gemini 2.5 Flash Multimodal Vision"]
+    classDef input fill:#0A1E1D,stroke:#00F2C2,stroke-width:2px,color:#fff;
+    classDef core fill:#0B2320,stroke:#10B981,stroke-width:2px,color:#fff;
+    classDef rcm fill:#18182E,stroke:#8B5CF6,stroke-width:2px,color:#fff;
+    classDef interop fill:#1E1B2E,stroke:#EC4899,stroke-width:2px,color:#fff;
+
+    subgraph INTAKE ["1. Ambient & Multimodal Ingestion Layer"]
+        MIC["🎙️ 16kHz PCM Live Microphone"]:::input
+        ECG["📈 12-Lead Diagnostic ECG Telemetry"]:::input
     end
 
-    subgraph CoreEngine ["2. Veritas Clinical Intelligence Core"]
-        AAI --> DIAR["Real-time Speaker Diarization (MD vs Patient)"]
-        DIAR --> GEM_CDS["Google Gemini 2.5 Flash CDS & SOAP Engine"]
-        GEM_VIS --> TELEM["ST-Segment & Rhythm Telemetry Extractor"]
-        TELEM --> GEM_CDS
-        GEM_CDS --> AIRLOCK["🛡️ Medico-Legal Allergy & Bleeding Airlock"]
+    subgraph BRAIN ["2. Veritas Clinical Intelligence Core"]
+        AAI["AssemblyAI v3 Universal-3.5 Stream"]:::core
+        GEM_VIS["Gemini 2.5 Flash Multimodal ECG Vision"]:::core
+        GEM_CDS["Google Gemini 2.5 Flash CDS Engine"]:::core
+        AIRLOCK["🛡️ Medico-Legal Allergy & Bleeding Airlock"]:::core
     end
 
-    subgraph AutonomousRCM ["3. Deterministic RCM & Payer Defense Engine"]
-        AIRLOCK --> MDM["CMS 2-of-3 High Complexity MDM Engine (CPT 99215)"]
-        MDM --> RADAR["Payer Denial Radar (Risk Audit: 58% -> 4%)"]
-        RADAR --> AGENT["⚡ Autonomous Voice Tool Dispatcher (tool_resolve_denial)"]
+    subgraph RCM ["3. Autonomous RCM & Denial Resolution"]
+        MDM["CMS 2-of-3 E/M MDM Calculator (CPT 99215)"]:::rcm
+        RADAR["Real-Time Payer Denial Radar (Risk: 58% -> 4%)"]:::rcm
+        DISPATCH["⚡ Voice/UI Agent Tool (tool_resolve_denial)"]:::rcm
     end
 
-    subgraph InteropGateway ["4. Institutional Interoperability & EDI Hub"]
-        AGENT --> EDI["🏛️ ANSI ASC X12N 837P (5010X222A1) Clearinghouse Gateway"]
-        AGENT --> FHIR["🔥 HL7 FHIR R4 Native Bundle (Patient, Encounter, Condition)"]
+    subgraph HUB ["4. Institutional Gateway & Clearinghouse"]
+        EDI["🏛️ ANSI ASC X12N 837P 5010X222A1 EDI"]:::interop
+        FHIR["🔥 HL7 FHIR R4 Bundle (JSON-RPC)"]:::interop
     end
+
+    MIC --> AAI --> GEM_CDS
+    ECG --> GEM_VIS --> GEM_CDS
+    GEM_CDS --> AIRLOCK
+    AIRLOCK --> MDM --> RADAR --> DISPATCH
+    DISPATCH --> EDI
+    DISPATCH --> FHIR
 ```
 
 ---
@@ -235,6 +263,11 @@ veritas-clinical-ai/
 ├── LICENSE                             # MIT License (Fokrul Islam, 2026)
 ├── docker-compose.yml                  # Unified Docker multi-container orchestration
 ├── .env.example                        # Global environment schema
+├── assets/                             # Visual Showcase Graphics & Architecture Assets
+│   ├── hero_dashboard.svg              # Main Veritas Command Center Mockup
+│   ├── ecg_vision.svg                  # Multimodal 12-Lead ECG Analysis Module
+│   ├── edi_clearinghouse.svg           # ANSI 837P Clearinghouse Modal
+│   └── copilot_cds.svg                 # Real-Time CDS & Drug Safety Airlock
 ├── .github/
 │   └── workflows/
 │       └── ci.yml                      # Automated CI Test Suite (Pytest & Next.js Build)

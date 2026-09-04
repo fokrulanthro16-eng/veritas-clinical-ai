@@ -1,0 +1,23 @@
+<svg width=800 height=500 viewBox=0 0 800 500 fill=none xmlns=http://www.w3.org/2000/svg>
+  <rect width=800 height=500 rx=20 fill=#050B0A stroke=#00F2C2 stroke-opacity=0.3 stroke-width=2/>
+  <rect x=25 y=25 width=750 height=60 rx=12 fill=#0A1F1B stroke=#123831/>
+  <text x=45 y=60 fill=#00F2C2 font-family=system-ui sans-serif font-weight=bold font-size=16>📈 MULTIMODAL 12-LEAD ECG TELEMETRY &amp; BIOMARKER INGESTION</text>
+  <rect x=25 y=105 width=450 height=365 rx=16 fill=#081715 stroke=#123831/>
+  <text x=45 y=135 fill=#CBD5E1 font-family=system-ui sans-serif font-weight=bold font-size=13>12-Lead Rhythm Strip Telemetry (Lead V4-V6)</text>
+  <path d=M45 220 H100 L110 180 L120 260 L130 190 L140 220 H190 L200 180 L210 260 L220 190 L230 220 H280 L290 180 L300 260 L310 190 L320 220 H370 L380 180 L390 260 L400 190 L410 220 H455 stroke=#00F2C2 stroke-width=3 fill=none/>
+  <rect x=45 y=280 width=410 height=170 rx=12 fill=#0A1F1B stroke=#123831/>
+  <text x=60 y=305 fill=#F87171 font-family=system-ui sans-serif font-weight=bold font-size=12>GEMINI VISION EXTRACTED BIOMARKERS</text>
+  <text x=60 y=330 fill=#E2E8F0 font-family=system-ui sans-serif font-size=12>• 1.8mm horizontal ST-segment depression in V4-V6</text>
+  <text x=60 y=355 fill=#E2E8F0 font-family=system-ui sans-serif font-size=12>• Symmetrical T-wave inversion in Lead I, aVL</text>
+  <text x=60 y=380 fill=#E2E8F0 font-family=system-ui sans-serif font-size=12>• High-sensitivity cardiac troponin I (hs-cTnI): 48 ng/L</text>
+  <text x=60 y=405 fill=#38BDF8 font-family=system-ui sans-serif font-size=12>• Correlation: Acute Anterolateral Subendocardial Ischemia</text>
+  <rect x=495 y=105 width=280 height=365 rx=16 fill=#081715 stroke=#123831/>
+  <text x=515 y=135 fill=#A78BFA font-family=system-ui sans-serif font-weight=bold font-size=13>EHR AUTO-POPULATION</text>
+  <rect x=515 y=155 width=240 height=80 rx=10 fill=#1E1B4B stroke=#6366F1 stroke-opacity=0.4/>
+  <text x=530 y=180 fill=#C7D2FE font-family=system-ui sans-serif font-weight=bold font-size=11>PRIMARY ICD-10</text>
+  <text x=530 y=205 fill=#FFFFFF font-family=system-ui sans-serif font-weight=900 font-size=18>I20.0 (Unstable Angina)</text>
+  <rect x=515 y=250 width=240 height=95 rx=10 fill=#0A2621 stroke=#00F2C2 stroke-opacity=0.3/>
+  <text x=530 y=275 fill=#00F2C2 font-family=system-ui sans-serif font-weight=bold font-size=11>SUGGESTED INTERVENTION</text>
+  <text x=530 y=295 fill=#CBD5E1 font-family=system-ui sans-serif font-size=11>Urgent Left Heart Catheterization</text>
+  <text x=530 y=315 fill=#34D399 font-family=system-ui sans-serif font-weight=bold font-size=11>CPT 93458 (Prior-Auth Ready)</text>
+</svg>
