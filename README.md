@@ -28,11 +28,11 @@
 
 ## 🖥️ Live Command Center & Visual Showcase
 
-![Veritas Clinical AI Command Center](assets/hero_dashboard.svg)
+![Veritas Clinical AI Command Center](./assets/hero_dashboard.png)
 
 | 📈 Multimodal 12-Lead ECG Vision | 🏛️ ANSI ASC X12N 837P Clearinghouse |
 | :---: | :---: |
-| ![Multimodal ECG](assets/ecg_vision.svg) | ![EDI 837P Gateway](assets/edi_clearinghouse.svg) |
+| ![Multimodal ECG](./assets/multimodal_ecg.png) | ![EDI 837P Gateway](./assets/edi_gateway.png) |
 | *Real-time ST-deviation extraction & biomarker vectorization* | *Deterministic 5010X222A1 institutional claim compilation* |
 
 ---
