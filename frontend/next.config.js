@@ -1,21 +1,15 @@
-const path = require('path');
-
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: false,
-  swcMinify: true,
+  output: 'export',
+  trailingSlash: true,
+  images: {
+    unoptimized: true,
+  },
   eslint: {
     ignoreDuringBuilds: true,
   },
   typescript: {
     ignoreBuildErrors: true,
-  },
-  // Restrict file tracing strictly to frontend directory
-  experimental: {
-    outputFileTracingRoot: path.join(__dirname),
-  },
-  images: {
-    unoptimized: true,
   },
 };
 
